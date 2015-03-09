@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5128
+
+vim-quick-radon is a Vim plugin that applies radon to your current file.
+Radon is a Python tool that computes various metrics from the source code.
+
+See also github repository  https://github.com/tell-k/vim-quick-radon
